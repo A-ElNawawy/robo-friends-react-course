@@ -1,0 +1,20 @@
+#SearchBox input{
+  color: #0000e0;
+  font-size: 15px;
+  padding: 6px 0;
+  text-align: center;
+  background-color: aquamarine;
+  border: 1px solid aqua;
+  border-width: 2px;
+}
+#SearchBox input::placeholder{
+  color: #0000e0;
+}
+#SearchBox input:hover{
+  box-shadow: 0 0 5px 0 #888;
+}
+#SearchBox input:focus{
+  box-shadow: 0 0 5px 0 #888;
+
+}
+

@@ -1,0 +1,8 @@
+#cardList{
+  padding: 3% 0 14% 0;
+  display: grid;
+  grid-template-columns: repeat(3, 30%);
+  justify-content: space-around;
+  grid-gap: 3% 0%;
+  /* overflow: hidden; */
+}
