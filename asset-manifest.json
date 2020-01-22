@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/robo-friends-react-course/static/css/main.23f3b4f5.chunk.css",
-    "main.js": "/robo-friends-react-course/static/js/main.332be352.chunk.js",
-    "main.js.map": "/robo-friends-react-course/static/js/main.332be352.chunk.js.map",
+    "main.css": "/robo-friends-react-course/static/css/main.cfca210c.chunk.css",
+    "main.js": "/robo-friends-react-course/static/js/main.4362065f.chunk.js",
+    "main.js.map": "/robo-friends-react-course/static/js/main.4362065f.chunk.js.map",
     "runtime-main.js": "/robo-friends-react-course/static/js/runtime-main.664fdfc7.js",
     "runtime-main.js.map": "/robo-friends-react-course/static/js/runtime-main.664fdfc7.js.map",
     "static/js/2.1c2ebb62.chunk.js": "/robo-friends-react-course/static/js/2.1c2ebb62.chunk.js",
     "static/js/2.1c2ebb62.chunk.js.map": "/robo-friends-react-course/static/js/2.1c2ebb62.chunk.js.map",
     "index.html": "/robo-friends-react-course/index.html",
-    "precache-manifest.4865e6095df09eab5c3b6a146362adca.js": "/robo-friends-react-course/precache-manifest.4865e6095df09eab5c3b6a146362adca.js",
+    "precache-manifest.7dce99ceb0121fa948dd76a624d11123.js": "/robo-friends-react-course/precache-manifest.7dce99ceb0121fa948dd76a624d11123.js",
     "service-worker.js": "/robo-friends-react-course/service-worker.js",
-    "static/css/main.23f3b4f5.chunk.css.map": "/robo-friends-react-course/static/css/main.23f3b4f5.chunk.css.map",
+    "static/css/main.cfca210c.chunk.css.map": "/robo-friends-react-course/static/css/main.cfca210c.chunk.css.map",
     "static/js/2.1c2ebb62.chunk.js.LICENSE": "/robo-friends-react-course/static/js/2.1c2ebb62.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.664fdfc7.js",
     "static/js/2.1c2ebb62.chunk.js",
-    "static/css/main.23f3b4f5.chunk.css",
-    "static/js/main.332be352.chunk.js"
+    "static/css/main.cfca210c.chunk.css",
+    "static/js/main.4362065f.chunk.js"
   ]
 }
