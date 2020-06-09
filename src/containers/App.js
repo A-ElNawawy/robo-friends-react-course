@@ -27,7 +27,7 @@ class App extends Component {
       return robot.name.toLowerCase().includes(this.state.searchField.toLowerCase());
     })
     if ( this.state.robots.length === 0 ) {
-      return <h1>Loading</h1>
+      return <h1>Loading...</h1>
     }else {
       return(
         <div id="app">
@@ -41,16 +41,3 @@ class App extends Component {
 }
 
 export default App;
-
-
-/* 
-const App = () => {
-  return(
-    <div id="app">
-      <h1>RoboFriends</h1>
-      <SearchBox />
-      <CardList robots={ robots } />
-    </div>
-  );
-}
- */
