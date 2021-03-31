@@ -4,7 +4,7 @@ import './CardList.css';
 
 const CardList = ({ robots }) => {
   return(
-    <div id="cardList">    
+    <div id="cardList">
       {
         robots.map((user, i) => {
           return(
